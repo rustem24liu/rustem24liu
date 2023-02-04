@@ -16,8 +16,8 @@ just for fun :sauropod:
 [<img align="left" alt="python" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][instagram]
 
 [instagram]: https://www.instagram.com/liu_rus/
-<p align="center">
-  <img src="https://github.com/rustem24liu/Programming-Principles--2/blob/master/2564.gif" width="200" height="250" alt="animated"/>
+<p align="right">
+  <img src="https://github.com/rustem24liu/Programming-Principles--2/blob/master/2564.gif" width="300" height="400" alt="animated"/>
 </p>
 <p align="right">
   >mood: Gomer
