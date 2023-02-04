@@ -17,7 +17,7 @@ just for fun :sauropod:
 
 [instagram]: https://www.instagram.com/liu_rus/
 <p align="right">
-  <img src="https://github.com/rustem24liu/Programming-Principles--2/blob/master/2564.gif" width="300" height="280" alt="animated"/>
+  <img src="https://github.com/rustem24liu/rustem24liu/blob/main/for%20github/2564.gif?raw=true" width="300" height="280" alt="animated"/>
 </p>
 <p align="right">
   >mood: Gomer
