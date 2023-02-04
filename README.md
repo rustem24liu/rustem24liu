@@ -18,7 +18,7 @@ just for fun :smile:
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/liu_rus/
+:desktop_computer: [instagram]: https://www.instagram.com/liu_rus/
 
 
 
