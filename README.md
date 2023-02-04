@@ -19,6 +19,8 @@ just for fun :sauropod:
 <p align="center">
   <img src="https://github.com/rustem24liu/Programming-Principles--2/blob/master/2564.gif"|width="100px" alt="animated"/>
 </p>
->mood: Gomer
+<p align="right">
+  >mood: Gomer
+</p>
 
 
