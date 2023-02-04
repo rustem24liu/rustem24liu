@@ -20,7 +20,7 @@ just for fun :sauropod:
 [instagram]: https://www.instagram.com/liu_rus/
 
 <p align="center">
-![2564](https://github.com/rustem24liu/Programming-Principles--2/blob/master/2564.gif)
+![2564.gif](https://github.com/rustem24liu/Programming-Principles--2/blob/master/2564.gif)
 </p>
 
 
