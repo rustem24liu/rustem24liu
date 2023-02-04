@@ -21,9 +21,7 @@ just for fun :sauropod:
 </p>
 
 [instagram]: https://www.instagram.com/liu_rus/
-<br />
-<br />
-<br />
+
 
 <p align="right">
   <img src="https://github.com/rustem24liu/rustem24liu/blob/main/for%20github/2564.gif?raw=true" width="300" height="280" alt="animated"/>
