@@ -19,7 +19,7 @@ just for fun :sauropod:
 
 [instagram]: https://www.instagram.com/liu_rus/
 
-![image](https://github.com/rustem24liu/Programming-Principles--2/blob/master/2564.gif)
+![image align="center" width="26px"](https://github.com/rustem24liu/Programming-Principles--2/blob/master/2564.gif)
 > mood: Gomer
 
 
