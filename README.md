@@ -19,7 +19,7 @@ just for fun :sauropod:
 
 [instagram]: https://www.instagram.com/liu_rus/
 
-https://giffiles.alphacoders.com/256/2564.gif
+![image](https://github.com/rustem24liu/Programming-Principles--2/blob/master/2564.gif)
 > mood: Gomer
 
 
