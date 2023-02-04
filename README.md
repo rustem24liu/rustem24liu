@@ -16,9 +16,12 @@ just for fun :sauropod:
 [<img align="left" alt="python" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][instagram]
 
 [instagram]: https://www.instagram.com/liu_rus/
+<br />
+<br />
+<br />
 
 <p align="left">
-  <img src="https://github.com/rustem24liu/rustem24liu/blob/main/for%20github/rustem.gif?raw=true" alt="animated"/>
+  <img src="https://github.com/rustem24liu/rustem24liu/blob/main/for%20github/rustem.gif?raw=true" width="100" height+"50" alt="animated"/>
 </p>
 
 <p align="right">
