@@ -19,5 +19,9 @@ just for fun :sauropod:
 
 [instagram]: https://www.instagram.com/liu_rus/
 
+https://giffiles.alphacoders.com/256/2564.gif
+> mood: Gomer
+
+
 
 
