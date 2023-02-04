@@ -21,7 +21,7 @@ just for fun :sauropod:
 <br />
 
 <p align="left">
-  <img src="https://github.com/rustem24liu/rustem24liu/blob/main/for%20github/rustem.gif?raw=true" width="100" height+"50" alt="animated"/>
+  <img src="https://github.com/rustem24liu/rustem24liu/blob/main/for%20github/rustem.gif?raw=true" width="200" height+"150" alt="animated"/>
 </p>
 
 <p align="right">
