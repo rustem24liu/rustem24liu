@@ -18,8 +18,6 @@ just for fun :sauropod:
 <br />
 
 [instagram]: https://www.instagram.com/liu_rus/
-
-<p align="center">
 ![image](https://github.com/rustem24liu/Programming-Principles--2/blob/master/2564.gif)
 mood: Gomer Simpson
 
