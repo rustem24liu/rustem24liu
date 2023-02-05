@@ -1,4 +1,4 @@
-### Hello I am rustem
+# Hello I am Rustem
 
 ### I'm beginner developer and studying in my first year in KBTU!
 
