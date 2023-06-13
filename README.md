@@ -1,4 +1,4 @@
-# Hello I am Rustem
+# My name is Rustem, but you can call me Rus!
 
 ### I'm beginner developer and studying in my first year in KBTU!
 
