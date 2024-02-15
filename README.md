@@ -9,11 +9,6 @@
 <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="django" title="django" style = "margin-left: 50px; width: 90px"/>
 
 <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" style = "margin-left: 50px; width: 59px"/>
-
-<img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="django" title="django" style = "margin-left: 50px; width: 90px"/>
-
-
- 
              
 
 [instagram]: https://www.instagram.com/liu_rus/
