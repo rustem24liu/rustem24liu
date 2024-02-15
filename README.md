@@ -8,6 +8,11 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html" title="html" width="55px"/>][instagram]
 <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="django" title="django" style = "margin-left: 50px; width: 90px"/>
 
+<img src="[https://www.djangoproject.com/m/img/logos/django-logo-positive.png](https://as2.ftcdn.net/v2/jpg/02/49/94/27/1000_F_249942709_30yeu8oRHYK3flNN2OMW22NqbDQx4Kcx.jpg)" alt="django" title="django" style = "margin-left: 50px; width: 90px"/>
+
+<img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="django" title="django" style = "margin-left: 50px; width: 90px"/>
+
+
  
              
 
