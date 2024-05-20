@@ -18,41 +18,28 @@
 
 ## About Me
 
-I am a passionate web developer with expertise in a variety of programming languages and frameworks. I enjoy building robust and scalable web applications and constantly exploring new technologies to improve my skill set.
+I am Rustem, student of KBTU from Almaty. Studying at Informational Systems (IS).
 
 ---
 
 ## Get in Touch
 
-Feel free to reach out to me on [Instagram](https://www.instagram.com/liu_rus/) if you have any questions or just want to connect!
+Feel free to reach out to me on [Telegram](https://t.me/rustem_liu) if you have any questions or just want to connect!
 
----
-
-## Projects
-
-### Project 1: Awesome Web App
-- **Tech Stack:** Django, Angular, Docker
-- **Description:** A full-featured web application with a modern front-end and powerful back-end capabilities.
-
-### Project 2: Microservices Architecture
-- **Tech Stack:** Golang, Docker, Kubernetes
-- **Description:** A scalable microservices architecture with a focus on high performance and reliability.
-
----
 
 ## Skills
 
-- **Languages:** Python, C++, JavaScript, Go
-- **Frameworks:** Django, Angular
-- **Tools:** Docker, Kubernetes
+- **Languages:** Python, C++, JavaScript, Go, SQL
+- **Frameworks:** Django, Angular, Pygame
+- **Tools:** Docker, PostgreSQL, GIT, Linux
 
 ---
 
 ## Highlights
 
-- 📜 **Certifications:** Full Stack Web Development, Cloud Computing
-- 🏆 **Achievements:** Built a high-traffic e-commerce website, Contributed to open-source projects
-- 💬 **Languages:** English, Chinese
+- 📜 **Certifications:** Python development stepik, outpeer.kz Python-Django developer (Texh Orda)
+- 🏆 **Achievements:** hackathons in university in pygame and Java, projects from course and uni.
+- 💬 **Languages:** Kazakh, Russian, Language
 
 ---
 
