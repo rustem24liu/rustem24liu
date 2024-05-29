@@ -39,7 +39,7 @@ Feel free to reach out to me on [Telegram](https://t.me/rustem_liu) if you have 
 
 - 📜 **Certifications:** Python development stepik, outpeer.kz Python-Django developer (Texh Orda)
 - 🏆 **Achievements:** hackathons in university in pygame and Java, projects from course and uni.
-- 💬 **Languages:** Kazakh, Russian, Language
+- 💬 **Languages:** Kazakh, Russian, English
 
 ---
 
