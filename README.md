@@ -1,7 +1,7 @@
 # Rustem Temirgali
 
-** Education: KBTU, Almaty | Informational technology
-** Work: Alldata, Almaty | Backend Developer
+## Education: KBTU, Almaty | Informational technology
+## Work: Alldata, Almaty | Backend Developer
 
 ---
 
@@ -41,4 +41,5 @@
 
 - Telegram: [@rustem_liu](https://t.me/rustem_liu)  
 - Email: temirgalirustem05@gmail.com
+
 
