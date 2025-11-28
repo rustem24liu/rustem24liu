@@ -1,6 +1,7 @@
-# Rustem Temirgali – Aspiring Web Developer
+# Rustem Temirgali
 
-**Student at KBTU, Almaty | Backend & Full-Stack Developer**
+** Education: KBTU, Almaty | Informational technology
+** Work: Alldata, Almaty | Backend Developer
 
 ---
 
@@ -8,7 +9,7 @@
 
 **Languages:** Python, PHP, Go, C++, JavaScript, SQL  
 **Frameworks / Libraries:** Django, Laravel, Angular, Pygame  
-**Tools & Technologies:** Docker, PostgreSQL, MySQL, Git, Linux, AWS  
+**Tools & Technologies:** Docker, PostgreSQL, MySQL, Git, Linux, AWS, NOSQL
 
 ---
 
@@ -39,4 +40,5 @@
 ## 🌐 Contact
 
 - Telegram: [@rustem_liu](https://t.me/rustem_liu)  
-- Email: rustem@example.com
+- Email: temirgalirustem05@gmail.com
+
