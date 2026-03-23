@@ -54,7 +54,7 @@ Bachelor in Information Technology (2022 - 2026)
 
 ## 🌐 Contact
 
-- Telegram: [@rustem_liu](https://t.me/temirgaliX)  
+- Telegram: [@temirgaliX](https://t.me/temirgaliX)  
 - Email: temirgalirustem05@gmail.com
 
 
